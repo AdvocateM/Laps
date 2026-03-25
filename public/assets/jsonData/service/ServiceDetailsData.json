@@ -1,0 +1,191 @@
+{
+    "serviceData": [
+        {
+            "id": 1,
+            "thumb": "/assets/images/service/service-details1.jpg",
+            "title": "Plant & Refractory Maintenance",
+            "description": "Specialized maintenance including refractory installations, plant shutdown coordination, and process optimization for mining clients. With extensive experience at Glencore Lion Smelter and Xstrata, our team ensures minimal downtime and maximum operational efficiency.",
+            "details": "LAPS Projects and Logistics provides comprehensive plant maintenance and refractory services to major mining operations across South Africa. Our expertise includes refractory installations during scheduled plant shutdowns, process optimization, emergency repairs, and full plant coordination. With our director Maven Malapane's experience as former Process Superintendent at Glencore Lion Smelter and Process Coordinator at Xstrata, we bring unmatched expertise to every project. We ensure that all plant shutdowns are completed safely, on time, and within budget, with detailed handover documentation to enable smooth restart of operations.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "Our goal is to deliver reliable, cost-effective plant maintenance solutions that extend equipment life, optimize production output, and maintain the highest safety standards.",
+            "goalList": [
+                "Preventive maintenance programs tailored to client needs",
+                "24/7 emergency response capabilities for urgent repairs",
+                "Certified refractory installation specialists",
+                "Zero downtime approach to planned plant shutdowns",
+                "Comprehensive safety compliance with OHSAS 18001 standards",
+                "Detailed documentation and handover after each project"
+            ]
+        },
+        {
+            "id": 2,
+            "thumb": "/assets/images/service/service-details2.jpg",
+            "title": "Fuel Management Systems",
+            "description": "Expert maintenance and installation of TMM fuel systems for major mines including Dwarsrivier and Samancor ECM. Our team ensures reliable fuel system performance to prevent costly downtime.",
+            "details": "We specialize in the maintenance, installation, and calibration of Trackless Mobile Machinery (TMM) fuel systems for underground and surface mining operations. As a current subcontractor at Dwarsrivier Mine and Samancor ECM since January 2024, we provide regular preventive maintenance, emergency repairs, system calibration, and staff training. Our team ensures that all fuel systems operate reliably, preventing costly downtime and maintaining safety compliance with mine regulations. We pride ourselves on rapid response times and minimizing operational disruptions for our clients.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "To ensure reliable fuel system performance that prevents unplanned downtime, maintains safety standards, and optimizes equipment efficiency.",
+            "goalList": [
+                "Regular preventive maintenance schedules tailored to mine operations",
+                "Emergency repair services available 24/7",
+                "System calibration and performance optimization",
+                "Staff training on basic system checks and reporting",
+                "Comprehensive safety compliance with mine regulations",
+                "Rapid response to minimize operational disruptions"
+            ]
+        },
+        {
+            "id": 3,
+            "thumb": "/assets/images/service/service-details3.jpg",
+            "title": "Civil & HDPE Construction",
+            "description": "Professional civil works including HDPE pipe installations, concrete supply, building, plumbing, and infrastructure development for mining and industrial clients.",
+            "details": "We provide end-to-end civil construction services for mining and industrial clients across South Africa. Our expertise includes HDPE pipe installations for water and slurry transport, concrete supply for infrastructure projects, building construction, plumbing services, and general infrastructure development. Recent projects include HDPE pipe installations at Samancor ECM, where we delivered high-quality work while minimizing disruption to active mining operations. Our team ensures all civil works meet rigorous industry standards and client specifications.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "To deliver high-quality civil construction services that meet rigorous industry standards, client specifications, and safety requirements.",
+            "goalList": [
+                "HDPE pipe installation and welding for water and slurry transport",
+                "Concrete supply and casting for infrastructure projects",
+                "Building construction and general maintenance",
+                "Plumbing services for industrial facilities",
+                "Infrastructure development for local communities",
+                "Quality assurance on all completed projects"
+            ]
+        },
+        {
+            "id": 4,
+            "thumb": "/assets/images/service/service-details4.jpg",
+            "title": "Environmental & Waste Services",
+            "description": "Hazardous waste cleaning, collection of contaminated water, sludge, dirty oil, and vegetation control services for mining operations.",
+            "details": "LAPS Projects and Logistics offers comprehensive environmental management services to help mining operations maintain compliance with environmental regulations. We specialize in hazardous waste cleaning, collection of contaminated water, sludge, and dirty oil, as well as vegetation control services. Our commitment to environmental responsibility ensures minimal impact throughout our operations, and we work closely with clients to develop sustainable solutions that protect natural resources. We ensure all waste is disposed of properly in accordance with environmental regulations.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "To provide environmentally responsible waste management solutions that protect natural resources, ensure regulatory compliance, and promote sustainability.",
+            "goalList": [
+                "Hazardous waste collection and proper disposal",
+                "Contaminated water and sludge removal services",
+                "Dirty oil collection and recycling programs",
+                "Vegetation control and chemical application",
+                "Environmental compliance monitoring and reporting",
+                "Sustainable practices that minimize environmental impact"
+            ]
+        },
+        {
+            "id": 5,
+            "thumb": "/assets/images/service/service-details5.jpg",
+            "title": "Underground Mining Support",
+            "description": "Underground sweepings, clearing services, and processing of scats to separate steel for recycling and recovery.",
+            "details": "We provide specialized underground support services to maintain safe and efficient mining operations. Our services include underground sweepings and clearing, processing of scats to separate steel for recycling and recovery, and general material handling. Our team works in challenging underground environments, maintaining high safety standards while delivering reliable support services that help mines operate efficiently. We focus on maximizing resource recovery while minimizing waste, contributing to sustainable mining practices.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "To support mining operations with reliable underground services that enhance safety, improve efficiency, and maximize resource recovery.",
+            "goalList": [
+                "Underground sweeping and clearing services",
+                "Scat processing and steel recovery for recycling",
+                "Material handling and transport underground",
+                "Safety-focused operations with strict compliance",
+                "24/7 support availability for mining operations",
+                "Efficient resource recovery and waste reduction"
+            ]
+        },
+        {
+            "id": 6,
+            "thumb": "/assets/images/service/service-details6.jpg",
+            "title": "Plant Hire & Fabrication",
+            "description": "Equipment rental, fabrication of pipes, screen repairs, conveyor belt maintenance, and workshop storage setup.",
+            "details": "We offer a comprehensive range of plant hire and fabrication services to support mining and industrial operations. Our services include equipment rental, fabrication of pipes, screen repairs, conveyor belt maintenance, and workshop storage setup. We ensure that all equipment and fabricated components meet industry standards and safety requirements, helping clients maintain efficient operations. Our fabrication team specializes in custom solutions tailored to specific client needs, ensuring durability and reliability.",
+            "serviceGoal": "Service Excellence",
+            "goalDescription": "To provide reliable equipment solutions and fabrication services that keep mining and industrial operations running smoothly.",
+            "goalList": [
+                "Equipment rental and plant hire services",
+                "Pipe fabrication and repairs for industrial applications",
+                "Screen repairs and maintenance for processing equipment",
+                "Conveyor belt services including installation and repair",
+                "Workshop storage solutions and setup",
+                "Quality fabrication that meets industry standards"
+            ]
+        }
+    ],
+    "mainServices": [
+        {
+            "id": 1,
+            "title": "Plant & Refractory Maintenance",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/1"
+        },
+        {
+            "id": 2,
+            "title": "Fuel Management Systems",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/2"
+        },
+        {
+            "id": 3,
+            "title": "Civil & HDPE Construction",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/3"
+        },
+        {
+            "id": 4,
+            "title": "Environmental & Waste Services",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/4"
+        },
+        {
+            "id": 5,
+            "title": "Underground Mining Support",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/5"
+        },
+        {
+            "id": 6,
+            "title": "Plant Hire & Fabrication",
+            "icon": "bi bi-chevron-right",
+            "path": "/service-details/6"
+        }
+    ],
+    "popularTags": [
+        {
+            "id": 1,
+            "name": "Mining",
+            "pathLink": "/services?tag=mining"
+        },
+        {
+            "id": 2,
+            "name": "Construction",
+            "pathLink": "/services?tag=construction"
+        },
+        {
+            "id": 3,
+            "name": "Plant Maintenance",
+            "pathLink": "/services?tag=plant-maintenance"
+        },
+        {
+            "id": 4,
+            "name": "Refractory",
+            "pathLink": "/services?tag=refractory"
+        },
+        {
+            "id": 5,
+            "name": "Fuel Systems",
+            "pathLink": "/services?tag=fuel-systems"
+        },
+        {
+            "id": 6,
+            "name": "HDPE Pipes",
+            "pathLink": "/services?tag=hdpe-pipes"
+        },
+        {
+            "id": 7,
+            "name": "Environmental",
+            "pathLink": "/services?tag=environmental"
+        },
+        {
+            "id": 8,
+            "name": "Safety",
+            "pathLink": "/services?tag=safety"
+        },
+        {
+            "id": 9,
+            "name": "100% Black Owned",
+            "pathLink": "/about"
+        }
+    ]
+}

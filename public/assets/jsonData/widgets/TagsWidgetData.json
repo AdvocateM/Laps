@@ -1,0 +1,50 @@
+{
+    "title": "Popular Tags",
+    "tagsData": [
+        {
+            "id": 1,
+            "name": "Mining",
+            "pathLink": "#"
+        },
+        {
+            "id": 2,
+            "name": "Construction",
+            "pathLink": "#"
+        },
+        {
+            "id": 3,
+            "name": "Plant Maintenance",
+            "pathLink": "#"
+        },
+        {
+            "id": 4,
+            "name": "Refractory",
+            "pathLink": "#"
+        },
+        {
+            "id": 5,
+            "name": "Fuel Systems",
+            "pathLink": "#"
+        },
+        {
+            "id": 6,
+            "name": "HDPE Pipes",
+            "pathLink": "#"
+        },
+        {
+            "id": 7,
+            "name": "Environmental",
+            "pathLink": "#"
+        },
+        {
+            "id": 8,
+            "name": "Safety",
+            "pathLink": "#"
+        },
+        {
+            "id": 9,
+            "name": "100% Black Owned",
+            "pathLink": "#"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "title": "Our Services",
+    "serviceData": [
+        {
+            "id": 1,
+            "serviceText": " Plant & Refractory Maintenance",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 2,
+            "serviceText": " Fuel Management Systems",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "serviceText": " Civil & HDPE Pipe Installation",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "serviceText": " Environmental & Waste Cleaning",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "serviceText": " Plant Hire & Fabrication",
+            "icon": "bi bi-chevron-double-right",
+            "link": ""
+        }
+    ]
+}

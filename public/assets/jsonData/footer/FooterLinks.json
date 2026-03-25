@@ -1,0 +1,24 @@
+{
+    "title": "Useful Links",
+    "linkData": [
+        
+        {
+            "id": 1,
+            "linkText": " About Expertise",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/about"
+        },
+        {
+            "id": 2,
+            "linkText": " Our Team",
+            "icon": "bi bi-chevron-double-right",
+            "link": "#"
+        },
+        {
+            "id": 3,
+            "linkText": " Contacts",
+            "icon": "bi bi-chevron-double-right",
+            "link": "/contact"
+        }
+    ]
+}

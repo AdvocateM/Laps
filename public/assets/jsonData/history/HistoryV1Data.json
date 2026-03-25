@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "end": 5,
+        "symbol": "+",
+        "title": "Mining Clients"
+    },
+    {
+        "id": 2,
+        "end": 8,
+        "symbol": "+",
+        "title": "Years Experience"
+    },
+    {
+        "id": 3,
+        "end": 100,
+        "symbol": "%",
+        "title": "Black Owned"
+    }
+]

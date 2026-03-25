@@ -1,0 +1,31 @@
+{
+    "subTitle": "OUR LEADERSHIP",
+    "title1": "Working With Our",
+    "title2": "Expert Team",
+    "teamData": [
+        {
+            "id": 1,
+            "thumb": "team1.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Maven Malapane",
+            "designation": "Founder & Managing Director",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 2,
+            "thumb": "team2.png",
+            "icon": "bi bi-plus-lg",
+            "name": "",
+            "designation": "Public Officer",
+            "singleTeamClass": ""
+        },
+        {
+            "id": 3,
+            "thumb": "team3.png",
+            "icon": "bi bi-plus-lg",
+            "name": "Lawrence Shila Sefolo",
+            "designation": "Accounting Officer",
+            "singleTeamClass": ""
+        }
+    ]
+}

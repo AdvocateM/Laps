@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "feature1.png",
+        "titleFirst": "Cost Effective",
+        "titleLast": "Solutions",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 2,
+        "activeClass": "active",
+        "featureNumber": "two",
+        "thumb": "feature2.png",
+        "titleFirst": "Experienced",
+        "titleLast": "Mining Team",
+        "icon": "bi bi-arrow-up-right"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "featureNumber": "",
+        "thumb": "feature3.png",
+        "titleFirst": "Safety Certified",
+        "titleLast": "Operations",
+        "icon": "bi bi-arrow-up-right"
+    }
+]

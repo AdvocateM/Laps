@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "sliderClass": "one",
+        "thumb": "slider-2.jpg",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "Mining & Industrial Experts",
+        "title1": "Reliable Solutions",
+        "title2": "For Mining & Logistics",
+        "text": "Laps Projects and Logistics is a 100% black-owned company providing professional services including underground sweepings, plant maintenance, refractory repairs, and fuel system management. We serve Dwarsrivier, Samancor, and Glencore with a focus on safety and efficiency.",
+        "btnText": "Discover More",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    },
+    {
+        "id": 2,
+        "sliderClass": "two",
+        "thumb": "slider-5.jpg",
+        "animation": "animate__animated animate__slideInLeft",
+        "subTitle": "Quality Construction & Plant Hire",
+        "title1": "Building & Maintaining",
+        "title2": "Industrial Infrastructure",
+        "text": "From HDPE pipe installations and civil construction to plant maintenance and hazardous waste cleaning, we deliver excellent service. Led by Director Maven Malapane, we are committed to integrity, responsibility, and exceeding client expectations.",
+        "btnText": "Our Services",
+        "btnIcon": "bi bi-arrow-up-right-circle-fill"
+    }
+]

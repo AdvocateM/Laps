@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "accordionId": "headingOne",
+        "dataBsTarget": "collapseOne",
+        "title": "What specific mining services do you offer?",
+        "activeClass": "show",
+        "bodyTitle": "Comprehensive Mining Support",
+        "bodyText": "We specialize in underground sweepings and clearing services, plant maintenance, refractory repairs, processing of scats for steel recovery, and TMM fuel systems maintenance. Our team has extensive experience working with major clients like Dwarsrivier, Samancor, and Glencore.",
+        "btnClass": "",
+        "ariaExpanded": "true"
+    },
+    {
+        "id": 2,
+        "accordionId": "headingTwo",
+        "dataBsTarget": "collapseTwo",
+        "title": "Do you handle construction and civil works?",
+        "activeClass": "",
+        "bodyTitle": "Civil & Infrastructure Solutions",
+        "bodyText": "Yes, we provide a full range of civil and construction services including HDPE pipe installations, concrete supply, building, plumbing, painting, and casting slabs. We also offer general building maintenance and infrastructure development for local communities.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    },
+    {
+        "id": 3,
+        "accordionId": "headingThree",
+        "dataBsTarget": "collapseThree",
+        "title": "What environmental services do you provide?",
+        "activeClass": "",
+        "bodyTitle": "Environmental & Waste Management",
+        "bodyText": "We offer hazardous environmental waste cleaning, collection of contaminated water, sludge and dirty oil, as well as grass cutting and chemical application. Our commitment to environmental responsibility ensures minimal impact throughout our operations.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    },
+    {
+        "id": 4,
+        "accordionId": "headingFour",
+        "dataBsTarget": "collapseFour",
+        "title": "How can I request a quote or get started?",
+        "activeClass": "",
+        "bodyTitle": "Easy Process to Begin",
+        "bodyText": "Getting started is simple. Contact our Managing Director Maven Malapane directly on 076 678 2906 or email malapanemaven@gmail.com. We'll discuss your project requirements, provide a customized solution, and ensure all safety and compliance standards are met.",
+        "btnClass": "collapsed",
+        "ariaExpanded": "false"
+    }
+]

@@ -1,0 +1,31 @@
+{
+    "subTitle": "Working Process",
+    "title1": "How We Deliver",
+    "title2": "Your Project",
+    "progressData": [
+        {
+            "id": 1,
+            "thumb": "work1.png",
+            "shape": "work-border-shape.png",
+            "number": "01",
+            "title": "Consultation & Planning",
+            "text": "We meet with you to understand project requirements, assess site conditions, and develop a comprehensive execution plan with safety and compliance in mind."
+        },
+        {
+            "id": 2,
+            "thumb": "work2.png",
+            "shape": "work-border-shape.png",
+            "number": "02",
+            "title": "Mobilization & Execution",
+            "text": "Our skilled team and equipment are deployed to site. We manage all operations including plant maintenance, construction, or fuel system installations efficiently."
+        },
+        {
+            "id": 3,
+            "thumb": "work3.png",
+            "shape": "work-border-shape.png",
+            "number": "03",
+            "title": "Quality Assurance & Handover",
+            "text": "We conduct thorough inspections, ensure all safety standards are met, and deliver completed project on time with full documentation and client sign-off."
+        }
+    ]
+}

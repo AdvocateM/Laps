@@ -1,0 +1,47 @@
+{
+    "subTitle": "TESTIMONIALS",
+    "title": "What Our Clients",
+    "title2": "Say About Us",
+    "testimonialData": [
+        {
+            "id": 1,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi1.jpg",
+            "name": "Thabo Mokoena",
+            "designation": "Maintenance Manager, Dwarsrivier Mine",
+            "text": "LAPS Projects and Logistics has been an excellent partner for our fuel systems maintenance. Their team is responsive, professional, and always prioritizes safety. Since they started working with us in January 2024, we've seen improved reliability in our TMM fuel systems and minimal downtime. Highly recommended.",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 2,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi2.jpg",
+            "name": "Johan van der Merwe",
+            "designation": "Operations Manager, Samancor ECM",
+            "text": "We've been working with LAPS for fuel systems maintenance and they've consistently delivered quality service. Their team understands the demands of mining operations and always ensures work is completed safely and efficiently. The communication is excellent and they're always available when we need them.",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 3,
+            "testimonialClass": "",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi3.jpg",
+            "name": "Sarah Ndlovu",
+            "designation": "Plant Manager, Glencore Lion Smelter",
+            "text": "The refractory installation work done by LAPS Projects and Logistics during our plant shutdown was exceptional. Their team, led by Maven Malapane who knows our plant inside out from his previous role here, executed the work flawlessly. They completed on time, within budget, and with zero safety incidents. A reliable partner.",
+            "icon": "testi-icon.png"
+        },
+        {
+            "id": 4,
+            "testimonialClass": "mt-180",
+            "animation": "animate__animated animate__slideInUp",
+            "thumb": "testi4.jpg",
+            "name": "David Mphahlele",
+            "designation": "Project Coordinator, Xstrata Boshoek",
+            "text": "LAPS has been a trusted partner for our plant shutdown maintenance projects. Their attention to detail, safety focus, and technical expertise are impressive. They coordinated multiple teams effectively and ensured our plant restarted safely and on schedule. We look forward to working with them again.",
+            "icon": "testi-icon.png"
+        }
+    ]
+}

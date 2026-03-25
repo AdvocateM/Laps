@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "thumb": "about-icon1.png",
+        "title": "Nationwide Service",
+        "text": "Operating in local and remote communities across South Africa, serving mining and industrial clients with a commitment to excellence and safety."
+    },
+    {
+        "id": 2,
+        "thumb": "about-icon2.png",
+        "title": "100% Black Owned",
+        "text": "Proudly 100% black-owned and managed, committed to empowering black men, women, youth, and entrepreneurs in the mining and construction sectors."
+    }
+]

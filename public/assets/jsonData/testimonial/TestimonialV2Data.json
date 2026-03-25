@@ -1,0 +1,34 @@
+{
+    "subTitle": "TESTIMONIALS",
+    "title1": "What Our Clients",
+    "title2": "Say About Us",
+    "testimonialData": [
+        {
+            "id": 1,
+            "icon": "fas fa-quote-right",
+            "text": "LAPS Projects and Logistics has been an excellent partner for our fuel systems maintenance since January 2024. Their team is responsive, professional, and always prioritizes safety. We've seen improved reliability in our TMM fuel systems and minimal downtime. Highly recommended.",
+            "reviewer": "",
+            "name": "Thabo Mokoena",
+            "designation": "Maintenance Manager, Dwarsrivier Mine",
+            "ratings": 5
+        },
+        {
+            "id": 2,
+            "icon": "fas fa-quote-right",
+            "text": "We've been working with LAPS for fuel systems maintenance and they've consistently delivered quality service. Their team understands the demands of mining operations and always ensures work is completed safely and efficiently. The communication is excellent and they're always available when we need them.",
+            "reviewer": "",
+            "name": "Johan van der Merwe",
+            "designation": "Operations Manager, Samancor ECM",
+            "ratings": 5
+        },
+        {
+            "id": 3,
+            "icon": "fas fa-quote-right",
+            "text": "The refractory installation work done by LAPS Projects and Logistics during our plant shutdown was exceptional. Their team, led by Maven Malapane who knows our plant inside out from his previous role here, executed the work flawlessly. They completed on time, within budget, and with zero safety incidents. A reliable partner.",
+            "reviewer": "",
+            "name": "Sarah Ndlovu",
+            "designation": "Plant Manager, Glencore Lion Smelter",
+            "ratings": 5
+        }
+    ]
+}

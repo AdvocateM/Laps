@@ -1,0 +1,41 @@
+{
+    "title": "Main Services",
+    "categoriesData": [
+        {
+            "id": 1,
+            "title": "Plant & Refractory Maintenance",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 2,
+            "title": "Fuel Management Systems",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 3,
+            "title": "Civil & HDPE Construction",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 4,
+            "title": "Environmental & Waste Services",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 5,
+            "title": "Underground Mining Support",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        },
+        {
+            "id": 6,
+            "title": "Plant Hire & Fabrication",
+            "icon": "bi bi-chevron-right",
+            "categoriesLink": "service-details"
+        }
+    ]
+}
