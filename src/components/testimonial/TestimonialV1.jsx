@@ -5,6 +5,8 @@ import sectionShape from '@/public/assets/images/about/section-shape.png'
 import TestimonialV1Data from '../../../public/assets/jsonData/testimonial/TestimonialV1Data.json'
 import SingleTestimonialV1 from './SingleTestimonialV1';
 import TestimonialV1Carousel from './TestimonialV1Carousel';
+import Image from 'next/image';
+
 
 const TestimonialV1 = () => {
     return (
@@ -14,9 +16,9 @@ const TestimonialV1 = () => {
                     <div className="row">
                         <div className="col-lg-5 col-md-12">
                             <div className="section-title">
-                                {/* <div className="section-shape">
+                                <div className="section-shape">
                                     <Image src={sectionShape} alt="image" />
-                                </div> */}
+                                </div>
                                 <div className="section-sub-title">
                                     <h4>{TestimonialV1Data.subTitle}</h4>
                                 </div>

@@ -15,9 +15,9 @@ const SingleTestimonialV2 = ({ testimonial }) => {
                     <p>{text}</p>
                 </div>
                 <div className="testi-items-content">
-                    <div className="testi-items-thumb">
+                    {/* <div className="testi-items-thumb">
                         <Image src={`/assets/images/testimonial/${reviewer}`} width={65} height={65} alt="image" />
-                    </div>
+                    </div> */}
                     <div className="testi-items-title">
                         <h4>{name}</h4>
                         <span>{designation}</span>

@@ -9,9 +9,9 @@ const SingleTestimonialV1 = ({ testimonial }) => {
             <div className={`testi-single-box ${testimonialClass} ${animation}`}>
                 <div className="testi-items-box">
                     <div className="testi-content">
-                        <div className="testi-thumb">
+                        {/* <div className="testi-thumb">
                             <Image src={`/assets/images/testimonial/${thumb}`} width={60} height={60} alt="image" />
-                        </div>
+                        </div> */}
                         <div className="testi-title">
                             <h4>{name}</h4>
                             <span>{designation}</span>

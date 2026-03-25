@@ -12,9 +12,9 @@ const TestimonialV2 = ({ testimonialClass }) => {
 					<div className="row">
 						<div className="col-lg-12 col-md-12">
 							<div className="section-title text-center">
-								{/* <div className="section-shape">
+								<div className="section-shape">
 									<Image src={sectionShape} alt="image" />
-								</div> */}
+								</div>
 								<div className="section-sub-title">
 									<h4>{TestimonialV2Data.subTitle}</h4>
 								</div>
