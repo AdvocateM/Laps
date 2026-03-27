@@ -5,42 +5,42 @@
     "serviceData": [
         {
             "id": 1,
-            "thumb": "/assets/images/service/service1.jpg",
+            "thumb": "/assets/images/project/project1.jpg",
             "title": "Plant & Refractory Maintenance",
             "description": "Specialized maintenance including refractory installations, plant shutdown coordination, and process optimization for mining clients. With extensive experience at Glencore Lion Smelter and Xstrata, our team ensures minimal downtime and maximum operational efficiency.",
             "details": "We provide comprehensive plant maintenance and refractory services to major mining operations across South Africa. Our expertise includes refractory installations during scheduled plant shutdowns, process optimization, and emergency repairs."
         },
         {
             "id": 2,
-            "thumb": "/assets/images/service/service2.jpg",
+            "thumb": "/assets/images/service/project2.jpg",
             "title": "Fuel Management Systems",
             "description": "Expert maintenance and installation of TMM fuel systems for major mines including Dwarsrivier and Samancor ECM. Our team ensures reliable fuel system performance to prevent costly downtime.",
             "details": "We specialize in the maintenance, installation, and calibration of Trackless Mobile Machinery (TMM) fuel systems for underground and surface mining operations. Current subcontractor at Dwarsrivier Mine and Samancor ECM."
         },
         {
             "id": 3,
-            "thumb": "/assets/images/service/service3.jpg",
+            "thumb": "/assets/images/service/project3.jpg",
             "title": "Civil & HDPE Construction",
             "description": "Professional civil works including HDPE pipe installations, concrete supply, building, plumbing, and infrastructure development for mining and industrial clients.",
             "details": "We provide end-to-end civil construction services including HDPE pipe installations for water and slurry transport, concrete supply, building construction, plumbing, and general infrastructure development."
         },
         {
             "id": 4,
-            "thumb": "/assets/images/service/service4.jpg",
+            "thumb": "/assets/images/service/project4.jpg",
             "title": "Environmental & Waste Services",
             "description": "Hazardous waste cleaning, collection of contaminated water, sludge, dirty oil, and vegetation control services for mining operations.",
             "details": "We offer comprehensive environmental management services including hazardous waste collection and disposal, contaminated water and sludge removal, dirty oil recycling, and vegetation control."
         },
         {
             "id": 5,
-            "thumb": "/assets/images/service/service5.jpg",
+            "thumb": "/assets/images/service/project4.jpg",
             "title": "Underground Mining Support",
             "description": "Underground sweepings, clearing services, and processing of scats to separate steel for recycling and recovery.",
             "details": "We provide specialized underground support services including sweepings and clearing, scat processing for steel recovery, and material handling to maintain safe and efficient mining operations."
         },
         {
             "id": 6,
-            "thumb": "/assets/images/service/service6.jpg",
+            "thumb": "/assets/images/service/project4.jpg",
             "title": "Plant Hire & Fabrication",
             "description": "Equipment rental, fabrication of pipes, screen repairs, conveyor belt maintenance, and workshop storage setup.",
             "details": "We offer comprehensive plant hire and fabrication services including equipment rental, pipe fabrication, screen repairs, conveyor belt maintenance, and workshop storage solutions."

@@ -5,7 +5,7 @@ import TagsWidget from '../widgets/TagsWidget';
 import Image from 'next/image';
 import blogDetails1 from '@/public/assets/images/blog/blog-detials1.png'
 import blogDetails2 from '@/public/assets/images/blog/blog-detials2.png'
-import blogDetails3 from '@/public/assets/images/blog/blog-detials3.png'
+import blogDetails3 from '@/public/assets/images/blog/blog-detials3.jpg'
 import blogDetails4 from '@/public/assets/images/blog/blog-detials4.png'
 import Link from 'next/link';
 import SocialShare from '../utilities/SocialShare';

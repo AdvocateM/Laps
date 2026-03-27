@@ -10,7 +10,7 @@ import TeamV1 from '@/src/components/team/TeamV1';
 import TestimonialV2 from '@/src/components/testimonial/TestimonialV2';
 
 export const metadata = {
-    title: "About - Euildint Construction Building NextJS Template"
+    title: "About - LAPS Projects and Logistics | Mining & Industrial Solutions"
 }
 
 const About = () => {
