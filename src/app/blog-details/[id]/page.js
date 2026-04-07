@@ -11,10 +11,18 @@ export const metadata = {
     title: "Blog Details - LAPS Projects and Logistics | Mining & Industrial Solutions"
 }
 
-const SingleBlog = ({ params }) => {
+export async function generateStaticParams() {
+    return BlogV1Data.blogData.map((blog) => ({
+        id: blog.id.toString(),
+    }));
+}
 
-    const { id } = params
-    const data = BlogV1Data.blogData.filter(blog => blog.id === parseInt(id))[0]
+const SingleBlog = ({ params }) => {
+    const { id } = params;
+
+    const data = BlogV1Data.blogData.filter(
+        blog => blog.id === parseInt(id)
+    )[0];
 
     if (!data) {
         return NotFound();
