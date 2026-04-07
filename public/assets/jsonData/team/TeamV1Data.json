@@ -5,7 +5,7 @@
     "teamData": [
         {
             "id": 1,
-            "thumb": "team1.png",
+            "thumb": "laps.png",
             "icon": "bi bi-plus-lg",
             "name": "Maven Malapane",
             "designation": "Founder & Managing Director",
@@ -13,15 +13,15 @@
         },
         {
             "id": 2,
-            "thumb": "team2.png",
+            "thumb": "laps.png",
             "icon": "bi bi-plus-lg",
-            "name": "",
+            "name": "Maven Malapane",
             "designation": "Public Officer",
             "singleTeamClass": ""
         },
         {
             "id": 3,
-            "thumb": "team3.png",
+            "thumb": "maven.png",
             "icon": "bi bi-plus-lg",
             "name": "Lawrence Shila Sefolo",
             "designation": "Accounting Officer",

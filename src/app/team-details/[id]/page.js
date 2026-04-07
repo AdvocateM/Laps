@@ -8,7 +8,7 @@ import NotFound from '../../not-found';
 import HeaderV1 from '@/src/components/header/HeaderV1';
 
 export const metadata = {
-    title: "Team Details - Euildint Construction Building NextJS Template"
+    title: "Team Details - LAPS Projects and Logistics | Mining & Industrial Solutions"
 }
 
 const page = ({ params }) => {

@@ -5,7 +5,7 @@ import HeaderV2 from '@/src/components/header/HeaderV2';
 import ServiceV3 from '@/src/components/service/ServiceV3';
 
 export const metadata = {
-    title: "Services - Euildint Construction Building NextJS Template"
+    title: "Services - LAPS Projects and Logistics | Mining & Industrial Solutions"
 }
 
 const Services = () => {

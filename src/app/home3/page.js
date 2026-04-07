@@ -14,7 +14,7 @@ import ServiceV3 from '@/src/components/service/ServiceV3';
 import TestimonialV2 from '@/src/components/testimonial/TestimonialV2';
 
 export const metadata = {
-    title: "Home Three - Euildint Construction Building NextJS Template"
+    title: "Home Three - LAPS Projects and Logistics | Mining & Industrial Solutions"
 }
 
 const Home3 = () => {
